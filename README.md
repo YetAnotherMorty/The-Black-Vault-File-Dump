@@ -70,4 +70,7 @@ A file dump on the Black Vault files from https://www.theblackvault.com/document
 | The Black Vault WWII Archive | 0.00 GB | [Download Here]() |
 | The Black Vault Y2K Archive | 0.00 GB | [Download Here]() |
 
-
+## Credits
+* Myself -
+* [u/ProjektDVD - UFO Files List](https://files.devabhishek.com/files/blackvault.7z) - Provided a single archive for the UFO Files
+* [u/rpollost - OD List](https://www.reddit.com/r/opendirectories/comments/kxlb1b/black_vault_open_directory/gjb5jb2/?context=3) - Provided a list of open directories found within the website.
