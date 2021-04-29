@@ -33,9 +33,7 @@ https://www.theblackvault.com/documents/aviation/aerospace_bibliography.pdf
 https://www.theblackvault.com/documents/aviation/af_combat_medals_streamers_campaigns.pdf
 https://www.theblackvault.com/documents/aviation/air_base_defense_in_the_republic_of_vietnam.pdf
 https://www.theblackvault.com/documents/aviation/aurora.gif
-
 https://www.theblackvault.com/documents/aviation/combat_wings.pdf
-
 https://www.theblackvault.com/documents/aviation/darkstar
 https://www.theblackvault.com/documents/aviation/darkstar/darkstar.pdf
 
@@ -44,6 +42,7 @@ https://www.theblackvault.com/documents/aviation/engine/engine.pdf
 
 https://www.theblackvault.com/documents/aviation/hyperx
 https://www.theblackvault.com/documents/aviation/hyperx/hyperx.pdf
+
 https://www.theblackvault.com/documents/aviation/stealth
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth0.htm
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth1.htm
