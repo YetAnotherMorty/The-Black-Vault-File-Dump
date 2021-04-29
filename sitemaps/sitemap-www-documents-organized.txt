@@ -1,4 +1,3 @@
-https://www.theblackvault.com/documents/.htaccess
 https://www.theblackvault.com/documents/20030730chinaex.pdf
 https://www.theblackvault.com/documents/2003_2004_sof_posture_statement.pdf
 https://www.theblackvault.com/documents/31-102.doc
@@ -35,6 +34,8 @@ https://www.theblackvault.com/documents/911fullreport.pdf
 https://www.theblackvault.com/documents/911statement16.pdf
 https://www.theblackvault.com/documents/916728.pdf
 https://www.theblackvault.com/documents/97-118.pdf
+
+
 https://www.theblackvault.com/documents/AD0400553.pdf
 https://www.theblackvault.com/documents/AD0688541.pdf
 https://www.theblackvault.com/documents/AD276892.pdf
@@ -187,16 +188,19 @@ https://www.theblackvault.com/documents/ADA422104.pdf
 https://www.theblackvault.com/documents/ADA436613.pdf
 https://www.theblackvault.com/documents/ADA442649.pdf
 https://www.theblackvault.com/documents/ADA442659.pdf
+
 https://www.theblackvault.com/documents/CIARecruit.pdf
 https://www.theblackvault.com/documents/Comp_Report_Key_Findings.pdf
 https://www.theblackvault.com/documents/DIA_1965.pdf
 https://www.theblackvault.com/documents/Drones-CARET.ppt
 https://www.theblackvault.com/documents/FullDoc2.pdf
+
 https://www.theblackvault.com/documents/Iraq
 https://www.theblackvault.com/documents/Iraq/CIARussiaIraq.pdf
 https://www.theblackvault.com/documents/Iraq/TagubaAnnexes.pdf
 https://www.theblackvault.com/documents/Iraq/iraqwmd2004.pdf
 https://www.theblackvault.com/documents/Iraqs_WMD_Vol3.pdf
+
 https://www.theblackvault.com/documents/LAFBI21-115.doc
 https://www.theblackvault.com/documents/LarryKingStephenville.pdf
 https://www.theblackvault.com/documents/OReaillyStephenville.pdf
@@ -210,6 +214,7 @@ https://www.theblackvault.com/documents/abbrev_acron.pdf
 https://www.theblackvault.com/documents/advancedmodeling.pdf
 https://www.theblackvault.com/documents/alabamamassmurder.pdf
 https://www.theblackvault.com/documents/allied2001.pdf
+
 https://www.theblackvault.com/documents/army
 https://www.theblackvault.com/documents/army/annex_a.html
 https://www.theblackvault.com/documents/army/annex_b.html
@@ -232,6 +237,7 @@ https://www.theblackvault.com/documents/army/execsumm.html
 https://www.theblackvault.com/documents/army/foreword.html
 https://www.theblackvault.com/documents/army/letter.html
 https://www.theblackvault.com/documents/army/orgchart.gif
+
 https://www.theblackvault.com/documents/aviation
 https://www.theblackvault.com/documents/aviation/10_propositions_regarding_air_power.pdf
 https://www.theblackvault.com/documents/aviation/31_initiatives.pdf
@@ -244,11 +250,15 @@ https://www.theblackvault.com/documents/aviation/aerospace_bibliography.pdf
 https://www.theblackvault.com/documents/aviation/af_combat_medals_streamers_campaigns.pdf
 https://www.theblackvault.com/documents/aviation/air_base_defense_in_the_republic_of_vietnam.pdf
 https://www.theblackvault.com/documents/aviation/aurora.gif
+
 https://www.theblackvault.com/documents/aviation/combat_wings.pdf
+
 https://www.theblackvault.com/documents/aviation/darkstar
 https://www.theblackvault.com/documents/aviation/darkstar/darkstar.pdf
+
 https://www.theblackvault.com/documents/aviation/engine
 https://www.theblackvault.com/documents/aviation/engine/engine.pdf
+
 https://www.theblackvault.com/documents/aviation/hyperx
 https://www.theblackvault.com/documents/aviation/hyperx/hyperx.pdf
 https://www.theblackvault.com/documents/aviation/stealth
