@@ -273,6 +273,7 @@ https://www.theblackvault.com/documents/biologicalweapons/anthrax/response2.gif
 
 https://www.theblackvault.com/documents/biologicalweapons/bz
 https://www.theblackvault.com/documents/biologicalweapons/bz/bz.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/1.gif
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/10.gif
@@ -578,12 +579,16 @@ https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/encl2_9
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/encl2_99.gif
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/response1.gif
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography/response2.gif
+
 https://www.theblackvault.com/documents/biologicalweapons/cbdovw01.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons/chatter
 https://www.theblackvault.com/documents/biologicalweapons/chatter/ciachatter.pdf
 https://www.theblackvault.com/documents/biologicalweapons/chatter/navychatter.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons/determination
 https://www.theblackvault.com/documents/biologicalweapons/determination/determination.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons/ewjt
 https://www.theblackvault.com/documents/biologicalweapons/ewjt/ewjt.pdf
 https://www.theblackvault.com/documents/biologicalweapons/proliferation
