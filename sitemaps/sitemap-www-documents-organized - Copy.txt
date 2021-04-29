@@ -1,18 +1,5 @@
 
 
-
-
-
-
-https://www.theblackvault.com/documents/aviation/darkstar
-https://www.theblackvault.com/documents/aviation/darkstar/darkstar.pdf
-
-https://www.theblackvault.com/documents/aviation/engine
-https://www.theblackvault.com/documents/aviation/engine/engine.pdf
-
-https://www.theblackvault.com/documents/aviation/hyperx
-https://www.theblackvault.com/documents/aviation/hyperx/hyperx.pdf
-
 https://www.theblackvault.com/documents/aviation/stealth
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth0.htm
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth1.htm
@@ -69,6 +56,7 @@ https://www.theblackvault.com/documents/aviation/stealth/enc2stealth7.htm
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth8.htm
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealth9.htm
 https://www.theblackvault.com/documents/aviation/stealth/enc2stealthend.htm
+
 https://www.theblackvault.com/documents/aviation/stealth/stealth0.htm
 https://www.theblackvault.com/documents/aviation/stealth/stealth1.htm
 https://www.theblackvault.com/documents/aviation/stealth/stealth10.htm
