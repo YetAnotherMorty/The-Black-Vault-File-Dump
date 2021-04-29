@@ -1,17 +1,9 @@
-https://www.theblackvault.com/documents/aviation
-https://www.theblackvault.com/documents/aviation/10_propositions_regarding_air_power.pdf
-https://www.theblackvault.com/documents/aviation/31_initiatives.pdf
-https://www.theblackvault.com/documents/aviation/AnatomyOfAReform.pdf
 
-https://www.theblackvault.com/documents/aviation/XPlanes
-https://www.theblackvault.com/documents/aviation/XPlanes/BellX5.pdf
-https://www.theblackvault.com/documents/aviation/aces_aerial_victories.pdf
-https://www.theblackvault.com/documents/aviation/aerial_interdiction.pdf
-https://www.theblackvault.com/documents/aviation/aerospace_bibliography.pdf
-https://www.theblackvault.com/documents/aviation/af_combat_medals_streamers_campaigns.pdf
-https://www.theblackvault.com/documents/aviation/air_base_defense_in_the_republic_of_vietnam.pdf
-https://www.theblackvault.com/documents/aviation/aurora.gif
-https://www.theblackvault.com/documents/aviation/combat_wings.pdf
+
+
+
+
+
 https://www.theblackvault.com/documents/aviation/darkstar
 https://www.theblackvault.com/documents/aviation/darkstar/darkstar.pdf
 
@@ -208,9 +200,12 @@ https://www.theblackvault.com/documents/basestructure2001.pdf
 https://www.theblackvault.com/documents/basestructure2002.pdf
 https://www.theblackvault.com/documents/binladenassassination.pdf
 https://www.theblackvault.com/documents/binladenhijack.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons
+
 https://www.theblackvault.com/documents/biologicalweapons/animal
 https://www.theblackvault.com/documents/biologicalweapons/animal/animal.pdf
+
 https://www.theblackvault.com/documents/biologicalweapons/anthrax
 https://www.theblackvault.com/documents/biologicalweapons/anthrax/1.gif
 https://www.theblackvault.com/documents/biologicalweapons/anthrax/10.gif
@@ -275,6 +270,7 @@ https://www.theblackvault.com/documents/biologicalweapons/anthrax/enc2anthrax9.h
 https://www.theblackvault.com/documents/biologicalweapons/anthrax/enc2anthraxend.htm
 https://www.theblackvault.com/documents/biologicalweapons/anthrax/response1.gif
 https://www.theblackvault.com/documents/biologicalweapons/anthrax/response2.gif
+
 https://www.theblackvault.com/documents/biologicalweapons/bz
 https://www.theblackvault.com/documents/biologicalweapons/bz/bz.pdf
 https://www.theblackvault.com/documents/biologicalweapons/bzbibliography
